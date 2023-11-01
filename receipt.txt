@@ -1,0 +1,7 @@
+Item: toilet paper
+Price: 5.99
+Aisle: household
+Amount: 2
+Subtotal: 11.98
+-------------------------
+Total Owing: $11.98
